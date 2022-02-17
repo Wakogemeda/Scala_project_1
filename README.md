@@ -1,4 +1,5 @@
 # scala_project_1
+Creating Facebook data analysis application 
 This application is using hive/mapreduce technology.
 This application implementing partition and bucketing.
 This application implementing CRUD operations.
